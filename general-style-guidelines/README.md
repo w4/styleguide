@@ -30,6 +30,8 @@ It's a good idea to include the rationale for a change in the explanatory text f
 
 See: https://lwn.net/Articles/637896/
 
+In most cases, commits on feature/bugfix branches should be squashed to a single commit before being merged into `develop`.
+
 ## Make sure changes are rebased on latest master.
 
 Ensure your code is up-to-date to prevent merge conflicts.
