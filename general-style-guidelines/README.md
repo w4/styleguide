@@ -7,7 +7,7 @@
 
 # Git workflow
 
-Our Git workflow is heavily inspired by the [‘Gitflow’ workflow](http://nvie.com/posts/a-successful-git-branching-model/). Although one major difference is the lack of a `develop` branch. Instead opting to use `master` as our staging branch and using Git tags as our way of deployment.
+Our Git workflow is heavily inspired by the [‘Gitflow’ workflow](http://nvie.com/posts/a-successful-git-branching-model/). The `master` branch is used as our staging branch and using Git tags as our way of deployment.
 
 ## Issues
 If you come across a bug or think of a missing feature, create an issue.
