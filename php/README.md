@@ -95,7 +95,7 @@ When the class has no methods or parameters, the class closing brace must be on 
 
 ## [§](#properties) <a name="properties"></a>Properties
 
-Visibility must be declared on all properties. The `var` keyboard must not ever be used.
+Visibility must be declared on all properties. The `var` keyword must not ever be used.
 
 Properties must be declared one per line. They must not be prefixed with a single underscore to indicate protected or private visibility.
 
